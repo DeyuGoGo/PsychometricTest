@@ -1,45 +1,41 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-import axiosInstance from './axiosConfig';
-
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import WelcomeMessage from './Teach/WelcomeMessage';
+import UserList from './Teach/UserList';
+import axiosInstance from "./axiosConfig";
 
 function App() {
+  const users = [
+    { id: 1, name: 'John' },
+    { id: 2, name: 'Jane' },
+    { id: 3, name: 'Doe' },
+    ];
   async function sendPostRequest() {
-    const url = '/v1/chat/completions';
+    const url = "/v1/chat/completions";
     const data = {
-      model: 'gpt-3.5-turbo',
+      model: "gpt-3.5-turbo",
       messages: [
         {
-            "role": "user",
-            "content": "1234 Main StApt 42"
-        }
-      ]
+          role: "user",
+          content: "請幫我製作一個心理測驗",
+        },
+      ],
     };
     try {
       const response = await axiosInstance.post(url, data);
-      console.log('Response:', response.data);
+      console.log("Response:", response.data);
     } catch (error) {
-      console.error('Error:', error);
+      console.error("Error:", error);
     }
   }
 
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <WelcomeMessage name="John" />
+        <UserList users={users} />
+
         <button onClick={sendPostRequest}>Send</button>
       </header>
     </div>
