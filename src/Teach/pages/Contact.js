@@ -3,7 +3,8 @@ import { useLocation } from 'react-router-dom';
 
 function Contact() {
   const location = useLocation();
-  const message = location.state?.message;
+  const message = location.state && location.state.message;
+  console.log(location);
 
   return (
     <div>
