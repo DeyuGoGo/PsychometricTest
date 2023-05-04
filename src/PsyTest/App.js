@@ -1,45 +1,66 @@
-import React from "react";
-import logo from "./logo.svg";
+import React, { useContext } from "react";
 import "./App.css";
-import WelcomeMessage from './Teach/WelcomeMessage';
-import UserList from './Teach/UserList';
-import axiosInstance from "./axiosConfig";
+import WelcomeMessage from "./WelcomeMessage";
+import UserList from "./UserList";
+import Counter from "./Counter";
+import FunctionalCounter from "./FunctionalCounter";
+import ThemeProvider from "./ThemeProvider";
+import ThemeContext from "./ThemeContext";
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import Home from './pages/Home';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import LoginForm from './pages/LoginForm';
+import Post from './pages/Post';
 
 function App() {
+    const { theme, toggleTheme } = useContext(ThemeContext);
+
   const users = [
-    { id: 1, name: 'John' },
-    { id: 2, name: 'Jane' },
-    { id: 3, name: 'Doe' },
-    ];
-  async function sendPostRequest() {
-    const url = "/v1/chat/completions";
-    const data = {
-      model: "gpt-3.5-turbo",
-      messages: [
-        {
-          role: "user",
-          content: "請幫我製作一個心理測驗",
-        },
-      ],
-    };
-    try {
-      const response = await axiosInstance.post(url, data);
-      console.log("Response:", response.data);
-    } catch (error) {
-      console.error("Error:", error);
-    }
-  }
+    { id: 1, name: "John" },
+    { id: 2, name: "Jane" },
+    { id: 3, name: "Doe" },
+  ];
 
   return (
+    <Router>
     <div className="App">
-      <header className="App-header">
-        <WelcomeMessage name="John" />
-        <UserList users={users} />
+      <nav>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
+          <li>
+            <Link to="/login">Login</Link>
+          </li>
+        </ul>
+      </nav>
 
-        <button onClick={sendPostRequest}>Send</button>
-      </header>
+      <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/login" element={<LoginForm />} />
+          <Route path="/post/:id" element={<Post />} />
+
+        </Routes>
     </div>
+  </Router>
   );
 }
 
-export default App;
+function WrappedApp() {
+    return (
+      <ThemeProvider>
+        <App />
+      </ThemeProvider>
+    );
+  }
+  
+  export default WrappedApp;
