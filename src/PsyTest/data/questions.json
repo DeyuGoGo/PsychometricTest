@@ -1,0 +1,62 @@
+[
+    {
+        "question": "你在夜市時更喜歡？",
+        "img_url": "https://th.bing.com/th/id/OIG.jghCEfHhPVPPKfE9i0Ii?pid=ImgGn",
+        "options": [
+            "與朋友一起品嚐各式小吃",
+            "獨自逛街尋找美食",
+            "玩遊戲攤贏獎品",
+            "在一旁觀察人潮與攤販"
+        ]
+    },
+    {
+        "question": "在台灣美景中，你最喜歡？",
+        "img_url": "https://th.bing.com/th/id/OIG.Jeh5WydALaKLpr9tDzbq?pid=ImgGn",
+        "options": [
+            "山巒起伏的自然風光",
+            "濱海的清澈沙灘",
+            "豐富的歷史古蹟",
+            "熱鬧的都市景觀"
+        ]
+    },
+    {
+        "question": "逢年過節時，你最期待？",
+        "img_url": "https://th.bing.com/th/id/OIG.td2FiZKLoF583MyJsyNE?pid=ImgGn",
+        "options": [
+            "團聚的歡樂氛圍",
+            "安靜的個人時間",
+            "傳統節慶活動",
+            "新奇的慶祝方式"
+        ]
+    },
+    {
+        "question": "遇到困難時，你會？",
+        "img_url": "https://th.bing.com/th/id/OIG.0JO_RcopEWjBNBOmuBhv?pid=ImgGn",
+        "options": [
+            "主動尋求解決方案",
+            "耐心等待適當時機",
+            "請教他人意見",
+            "靠直覺應對"
+        ]
+    },
+    {
+        "question": "你喜歡在假日？",
+        "img_url": "https://th.bing.com/th/id/OIG.F7Ns.QFusnx52.jlea4_?pid=ImgGn",
+        "options": [
+            "與朋友出遊",
+            "安排自己的時間",
+            "參加社區活動",
+            "學習新事物"
+        ]
+    },
+    {
+        "question": "面對變化，你通常？",
+        "img_url": "https://th.bing.com/th/id/OIG.7Tiy_NchKX1q9h279c.E?pid=ImgGn",
+        "options": [
+            "積極適應",
+            "謹慎觀察",
+            "細心分析",
+            "跟隨直覺"
+        ]
+    }
+]
