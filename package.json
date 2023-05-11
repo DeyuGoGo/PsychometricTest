@@ -1,7 +1,7 @@
 {
   "name": "psychometric-test",
   "version": "0.1.0",
-   "homepage": ".",
+  "homepage": "https://deyugogo.github.io/PsychometricTest/",
   "private": true,
 
   "dependencies": {
