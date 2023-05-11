@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <h1>台灣人格測試</h1>
-      <Router>
+      <Router >
         <Routes>
           <Route path="/" element={<QuestionList onResult={setResult} />} />
           <Route path="/result" element={<Result result={result} />} />
