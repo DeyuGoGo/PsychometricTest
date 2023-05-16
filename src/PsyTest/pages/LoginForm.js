@@ -6,7 +6,6 @@ function LoginForm() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    // 这里可以处理提交表单的逻辑，例如发送数据到服务器
     console.log('Email:', email);
     console.log('Password:', password);
   };
