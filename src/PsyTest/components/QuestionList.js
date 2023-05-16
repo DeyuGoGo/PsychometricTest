@@ -31,6 +31,7 @@ function QuestionList({ onResult }) {
       classNames="question-animation"
     >
       <Question
+        ref={React.createRef()} // 新增的代碼
         key={currentQuestion}
         question={questionsData[currentQuestion]}
         options={questionsData[currentQuestion].options}

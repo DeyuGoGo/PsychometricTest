@@ -261,25 +261,25 @@
             159
         ],
         "description": "就像宜蘭的溫暖與友善，你對他人充滿同理心，並且總是願意為團隊提供情感支持。在團隊中，你是一個可靠的朋友，能夠與他人建立深厚的聯繫。",
-        "imageUrl": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "花蓮",
-                "imageUrl": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
             },
             {
                 "name": "台北",
-                "imageUrl": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "嘉義",
-                "imageUrl": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
             },
             {
                 "name": "屏東",
-                "imageUrl": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn"
             }
         ]
     },
@@ -290,25 +290,25 @@
             175
         ],
         "description": "就像澎湖的海洋風光，你的心境自由、樂觀。你獨立且善於冒險，並且鼓勵團隊探索未知的領域。在團隊中，你是一個勇敢的開拓者。",
-        "imageUrl": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "金門",
-                "imageUrl": "url_to_yourhttps://th.bing.com/th/id/OIG.XtnhET47FLLHfo4rc6BX?pid=ImgGnimage"
+                "image": "url_to_yourhttps://th.bing.com/th/id/OIG.XtnhET47FLLHfo4rc6BX?pid=ImgGnimage"
             },
             {
                 "name": "馬祖",
-                "imageUrl": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "新竹",
-                "imageUrl": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
             },
             {
                 "name": "高雄",
-                "imageUrl": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
             }
         ]
     },
@@ -319,25 +319,25 @@
             191
         ],
         "description": "就像金門的堅韌和堅定，你是一個有決心、有毅力的人，始終堅守自己的信念。在團隊中，你是一個堅定的領導者，引領著他人前進。",
-        "imageUrl": "https://th.bing.com/th/id/OIG.XtnhET47FLLHfo4rc6BX?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG.XtnhET47FLLHfo4rc6BX?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "澎湖",
-                "imageUrl": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
             },
             {
                 "name": "台南",
-                "imageUrl": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "imageUrl": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
             },
             {
                 "name": "花蓮",
-                "imageUrl": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
             }
         ]
     },
@@ -348,25 +348,25 @@
             207
         ],
         "description": "就像馬祖的寧靜和祥和，你是一個內向、沉穩的人，善於聆聽他人的聲音。在團隊中，你是一個審慎的規劃者，為團隊帶來平衡與穩定。",
-        "imageUrl": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "澎湖",
-                "imageUrl": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
             },
             {
                 "name": "宜蘭",
-                "imageUrl": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "高雄",
-                "imageUrl": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
             },
             {
                 "name": "新竹",
-                "imageUrl": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
             }
         ]
     },
@@ -377,25 +377,25 @@
             223
         ],
         "description": "你的性格就像苗栗一樣，充滿了創新與活力。你是個開放的人，對新事物充滿好奇。在團隊中，你是一個激發創新和變革的火種。",
-        "imageUrl": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "新竹",
-                "imageUrl": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
             },
             {
                 "name": "台中",
-                "imageUrl": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "花蓮",
-                "imageUrl": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
             },
             {
                 "name": "嘉義",
-                "imageUrl": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
             }
         ]
     },
@@ -406,25 +406,25 @@
             239
         ],
         "description": "你就像南投一樣，寧靜而內斂。你是一個冷靜、理智的人，善於分析事情的本質。在團隊中，你是一個理性的思考者，為團隊帶來深入的見解。",
-        "imageUrl": "https://th.bing.com/th/id/OIG.ugJ_Dlb_tPQQBJ2ojT6j?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG.ugJ_Dlb_tPQQBJ2ojT6j?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "台南",
-                "imageUrl": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
             },
             {
                 "name": "高雄",
-                "imageUrl": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "苗栗",
-                "imageUrl": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn"
             },
             {
                 "name": "桃園",
-                "imageUrl": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
             }
         ]
     },
@@ -435,25 +435,25 @@
             255
         ],
         "description": "你的性格就像彰化一樣，平實且穩定。你是個腳踏實地的人，善於執行並堅持到底。在團隊中，你是一個值得信賴的夥伴，能確保任務順利完成。",
-        "imageUrl": "https://th.bing.com/th/id/OIG._SJ5YOx.WfWohyU6D8ue?pid=ImgGn",
+        "personality_image": "https://th.bing.com/th/id/OIG._SJ5YOx.WfWohyU6D8ue?pid=ImgGn",
         "easy_to_get_along_with": [
             {
                 "name": "台中",
-                "imageUrl": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
             },
             {
                 "name": "台南",
-                "imageUrl": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "imageUrl": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
             },
             {
                 "name": "高雄",
-                "imageUrl": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
             }
         ]
     }

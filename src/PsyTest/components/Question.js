@@ -1,9 +1,9 @@
 import React from 'react';
 import './Question.css';
 
-function Question({ question, options, onAnswerSelected }) {
+const Question = React.forwardRef(({ question, options, onAnswerSelected }, ref) => {
   return (
-    <div className="question">
+    <div ref={ref} className="question">
       <h2>{question.question}</h2>
       {question.img_url && (
         <div className="image-container">
@@ -23,6 +23,7 @@ function Question({ question, options, onAnswerSelected }) {
       </div>
     </div>
   );
-}
+});
+
 
 export default Question;
