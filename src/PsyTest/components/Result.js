@@ -38,7 +38,7 @@ function Result({ result }) {
       </div>
 
       <Link to="/" className="retake-test">重新測試</Link>
-      <p className="credit">由黃得瑜製作（所有資料、程式碼、圖片來自ChatGPT）</p>
+      <p className="credit">由黃得瑜很閒製作（心理測驗資料、程式碼來自ChatGPT ，圖片來自於Bing）</p>
     </div>
   );
 }
