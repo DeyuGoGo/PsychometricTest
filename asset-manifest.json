@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PsychometricTest/static/css/main.bf694391.css",
-    "main.js": "/PsychometricTest/static/js/main.1cd24520.js",
+    "main.js": "/PsychometricTest/static/js/main.18d5696e.js",
     "static/js/787.3c00ef58.chunk.js": "/PsychometricTest/static/js/787.3c00ef58.chunk.js",
     "index.html": "/PsychometricTest/index.html",
     "main.bf694391.css.map": "/PsychometricTest/static/css/main.bf694391.css.map",
-    "main.1cd24520.js.map": "/PsychometricTest/static/js/main.1cd24520.js.map",
+    "main.18d5696e.js.map": "/PsychometricTest/static/js/main.18d5696e.js.map",
     "787.3c00ef58.chunk.js.map": "/PsychometricTest/static/js/787.3c00ef58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf694391.css",
-    "static/js/main.1cd24520.js"
+    "static/js/main.18d5696e.js"
   ]
 }
