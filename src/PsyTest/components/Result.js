@@ -14,7 +14,6 @@ function Result({ result }) {
       <h2>你的人格類型是：{result.name}</h2>
       <img src={result.personality_image} alt={result.name} className="result-image"/>
       <p>{result.description}</p>
-      
       <div className="compatibility-container">
         <div className="easy-to-get-along">
           <h3>容易相處的人格類型：</h3>
