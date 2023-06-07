@@ -3,25 +3,25 @@
         "name": "花蓮",
         "code_range": [0, 15],
         "description": "您就像花蓮的太魯閣峽谷一樣深沉、寧靜，您的善良與照顧他人的特質讓您在團體中成為穩定的支柱。您喜歡與朋友分享生活中的點點滴滴，就如同花蓮的自然景色一樣豐富多彩。",
-        "personality_image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台中",
-                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             }
         ]
     },
@@ -29,25 +29,25 @@
         "name": "台中",
         "code_range": [16, 31],
         "description": "就如同台中的豐富文化與活力一樣，您充滿熱情且樂於助人。您善於組織活動，如同台中市的夜市與文化活動一樣豐富多元，讓人永不厭倦。",
-        "personality_image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             },
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             }
         ]
     },
@@ -58,25 +58,25 @@
             47
         ],
         "description": "高雄以其美麗的海灣和活躍的城市生活聞名，您就如同這座城市一樣，充滿活力和創新。您擅長與他人溝通，具有豐富的想像力，就像高雄的壯觀夜景和生機勃勃的文化一樣引人入勝。",
-        "personality_image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "台中",
-                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "桃園",
-                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg"
             }
         ]
     },
@@ -87,25 +87,25 @@
             63
         ],
         "description": "您的個性堅定有力，就如同台北101一樣屹立不搖。您具有領導能力，善於為團隊指引方向，這點就像台北這座國際都市，始終引領著台灣的發展。",
-        "personality_image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             },
             {
                 "name": "桃園",
-                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ]
     },
@@ -116,25 +116,25 @@
             79
         ],
         "description": "新竹以其科技產業聞名，就如同這個城市一樣，您的頭腦靈活，善於分析問題。您的策略性思考就像新竹的創新科技一樣，為團隊帶來了新的突破和發展。",
-        "personality_image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "桃園",
-                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             }
         ]
     },
@@ -145,25 +145,25 @@
             95
         ],
         "description": "桃園是一個多元且包容的城市，就如同您的性格一樣，您友善樂觀，富有包容心。您的溫暖和樂觀就像桃園的多元文化一樣，為團隊帶來了和諧的氛圍。",
-        "personality_image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             },
             {
                 "name": "嘉義",
-                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg"
             }
         ]
     },
@@ -174,25 +174,25 @@
             111
         ],
         "description": "台南是台灣的文化古都，充滿了歷史與藝術的氣息。正如此地的特色，您熱愛探索，擁有獨立的精神，對於新奇的事物總是保持著高度的熱情。在團隊中，您就像台南的豐富歷史與文化一樣，帶領著大家踏上冒險的旅程。",
-        "personality_image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "嘉義",
-                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg"
             },
             {
                 "name": "屏東",
-                "image": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l9.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             },
             {
                 "name": "台中",
-                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg"
             }
         ]
     },
@@ -203,25 +203,25 @@
             127
         ],
         "description": "嘉義是以其細緻的工藝和美食而聞名的地方。您具有對細節的關注和追求完美的特質，就像嘉義精緻的工藝品和美食一樣。在團體中，您是品質的保證者。",
-        "personality_image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             },
             {
                 "name": "屏東",
-                "image": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l9.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "桃園",
-                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg"
             },
             {
                 "name": "宜蘭",
-                "image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l10.jpg"
             }
         ]
     },
@@ -232,25 +232,25 @@
             143
         ],
         "description": "屏東以其豐富的自然風光和獨特的文化特色而聞名。您的樂觀開朗和適應力強的性格，就像屏東多元且富有活力的風貌。在團體中，您是永不言敗的鬥士。",
-        "personality_image": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l9.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             },
             {
                 "name": "嘉義",
-                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "宜蘭",
-                "image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l10.jpg"
             },
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             }
         ]
     },
@@ -261,25 +261,25 @@
             159
         ],
         "description": "就像宜蘭的溫暖與友善，你對他人充滿同理心，並且總是願意為團隊提供情感支持。在團隊中，你是一個可靠的朋友，能夠與他人建立深厚的聯繫。",
-        "personality_image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l10.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "嘉義",
-                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg"
             },
             {
                 "name": "屏東",
-                "image": "https://th.bing.com/th/id/OIG.wl6A_iqvPSykGfjBFNs9?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l9.jpg"
             }
         ]
     },
@@ -290,7 +290,7 @@
             175
         ],
         "description": "就像澎湖的海洋風光，你的心境自由、樂觀。你獨立且善於冒險，並且鼓勵團隊探索未知的領域。在團隊中，你是一個勇敢的開拓者。",
-        "personality_image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l11.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "金門",
@@ -298,17 +298,17 @@
             },
             {
                 "name": "馬祖",
-                "image": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l13.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ]
     },
@@ -319,25 +319,25 @@
             191
         ],
         "description": "就像金門的堅韌和堅定，你是一個有決心、有毅力的人，始終堅守自己的信念。在團隊中，你是一個堅定的領導者，引領著他人前進。",
-        "personality_image": "https://th.bing.com/th/id/OIG.XtnhET47FLLHfo4rc6BX?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l12.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "澎湖",
-                "image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l11.jpg"
             },
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             }
         ]
     },
@@ -348,25 +348,25 @@
             207
         ],
         "description": "就像馬祖的寧靜和祥和，你是一個內向、沉穩的人，善於聆聽他人的聲音。在團隊中，你是一個審慎的規劃者，為團隊帶來平衡與穩定。",
-        "personality_image": "https://th.bing.com/th/id/OIG.xrVzZjeMPDDeyTyZ0Tpu?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l13.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "澎湖",
-                "image": "https://th.bing.com/th/id/OIG.Ck9LYuy_g0rmdvL.z5q0?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l11.jpg"
             },
             {
                 "name": "宜蘭",
-                "image": "https://th.bing.com/th/id/OIG._y3pcSY1RWQ4qzwcxfGx?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l10.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             },
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             }
         ]
     },
@@ -377,25 +377,25 @@
             223
         ],
         "description": "你的性格就像苗栗一樣，充滿了創新與活力。你是個開放的人，對新事物充滿好奇。在團隊中，你是一個激發創新和變革的火種。",
-        "personality_image": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l14.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "新竹",
-                "image": "https://th.bing.com/th/id/OIG.o6y1K8rw7RTd95ck75RE?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l5.jpg"
             },
             {
                 "name": "台中",
-                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "花蓮",
-                "image": "https://th.bing.com/th/id/OIG.JqFGPlDZHw1GrJJLGy00?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l1.jpg"
             },
             {
                 "name": "嘉義",
-                "image": "https://th.bing.com/th/id/OIG.aaCvoQRr0McBl_fjm313?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l8.jpg"
             }
         ]
     },
@@ -406,25 +406,25 @@
             239
         ],
         "description": "你就像南投一樣，寧靜而內斂。你是一個冷靜、理智的人，善於分析事情的本質。在團隊中，你是一個理性的思考者，為團隊帶來深入的見解。",
-        "personality_image": "https://th.bing.com/th/id/OIG.ugJ_Dlb_tPQQBJ2ojT6j?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l15.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "苗栗",
-                "image": "https://th.bing.com/th/id/OIG.fQRPziRfDeYfjgwMGeIR?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l14.jpg"
             },
             {
                 "name": "桃園",
-                "image": "https://th.bing.com/th/id/OIG.YogvlavdItckINwkhe4q?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l6.jpg"
             }
         ]
     },
@@ -435,25 +435,25 @@
             255
         ],
         "description": "你的性格就像彰化一樣，平實且穩定。你是個腳踏實地的人，善於執行並堅持到底。在團隊中，你是一個值得信賴的夥伴，能確保任務順利完成。",
-        "personality_image": "https://th.bing.com/th/id/OIG._SJ5YOx.WfWohyU6D8ue?pid=ImgGn",
+        "personality_image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l16.jpg",
         "easy_to_get_along_with": [
             {
                 "name": "台中",
-                "image": "https://th.bing.com/th/id/OIG.tJI6W3XNSTt2u1M8vfPC?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l2.jpg"
             },
             {
                 "name": "台南",
-                "image": "https://th.bing.com/th/id/OIG.Gqm94uoxakI6feS_0MIo?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l7.jpg"
             }
         ],
         "difficult_to_get_along_with": [
             {
                 "name": "台北",
-                "image": "https://th.bing.com/th/id/OIG.B00ZzXJmN8fV6Qe_8jKq?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l4.jpg"
             },
             {
                 "name": "高雄",
-                "image": "https://th.bing.com/th/id/OIG.wW3IUroh5GN8.SgTq9Q.?pid=ImgGn"
+                "image": "https://storage.googleapis.com/psychometrictestai.appspot.com/answer_1/l3.jpg"
             }
         ]
     }
